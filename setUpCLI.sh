@@ -15,8 +15,6 @@ echo
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 	sudo apt-get update
+	sudo apt-get install azure-cli
 fi
-
-sudo apt-get install azure-cli
-
 
