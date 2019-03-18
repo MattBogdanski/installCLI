@@ -1,2 +1,2 @@
 # installCLI
-How to install CLI on your Ubuntu Machin
+How to install CLI on your Ubuntu Machine
